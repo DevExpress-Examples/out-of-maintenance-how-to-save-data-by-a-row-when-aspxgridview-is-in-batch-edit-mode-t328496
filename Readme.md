@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Scripts.js](./CS/Scripts.js) (VB: [Scripts.js](./VB/Scripts.js))
+<!-- default file list end -->
 # How to save data by a row when ASPxGridView is in Batch Edit Mode
 
 
