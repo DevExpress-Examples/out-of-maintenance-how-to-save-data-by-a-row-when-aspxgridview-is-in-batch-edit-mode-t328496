@@ -6,6 +6,9 @@
 * [Scripts.js](./CS/Scripts.js) (VB: [Scripts.js](./VB/Scripts.js))
 <!-- default file list end -->
 # How to save data by a row when ASPxGridView is in Batch Edit Mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t328496/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to update ASPxGridView by a row. ASPxButtons in the item template of an unbound column are used for updating or canceling changes. A datasource is updated on a grid callback. </p>
